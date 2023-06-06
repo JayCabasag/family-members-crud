@@ -8,23 +8,24 @@ To start the app, follow the steps below:
 
 Clone the repository:
 
-```bash
-Copy code
-git clone https://github.com/JayCabasag/repo.git```
+```shell
+git clone https://github.com/JayCabasag/repo.git
+```
 Install dependencies:
 
 Frontend:
 
-bash
-Copy code
+```shell
 cd frontend
 npm install
+```
 Backend:
 
-bash
-Copy code
+```shell
 cd backend
 npm install
+```
+
 Set up Firebase Firestore:
 
 Create a Firebase project on the Firebase console (https://console.firebase.google.com/).
@@ -35,19 +36,17 @@ Usage
 To run the app, execute the following commands:
 
 Frontend:
-
-arduino
-Copy code
+```shell
 cd frontend
 npm run dev
+```
 This command will start the frontend server and make the app accessible at http://localhost:3000.
 
 Backend:
-
-bash
-Copy code
+```shell
 cd backend
 npm start
+```
 This command will start the backend server and make the APIs available at http://localhost:3300.
 
 Contributing
