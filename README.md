@@ -8,9 +8,9 @@ To start the app, follow the steps below:
 
 Clone the repository:
 
-bash
+```bash
 Copy code
-git clone https://github.com/JayCabasag/repo.git
+git clone https://github.com/JayCabasag/repo.git```
 Install dependencies:
 
 Frontend:
